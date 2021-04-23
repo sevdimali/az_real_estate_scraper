@@ -1,2 +1,2 @@
 # az_real_estate_scraper
-local Azerbaijan real estate website scraper
+An app for scraping real estate listings from local Azerbaijan websites.
